@@ -1,0 +1,1 @@
+# D7018E_80MSPS_12bit_NXP
