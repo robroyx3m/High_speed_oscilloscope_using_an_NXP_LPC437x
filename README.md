@@ -4,7 +4,7 @@ Course name : "D7018E - special studies in embedded systems"
 Carl Bäck, carbck-4@student.ltu.se, 950601-3474
 
 ## Project description
-The project is meant to evaluate the use of the RUST programming language to implement high speed data accusition on the NXP LPC43XX, 200Mhz M4/M0 multicore microcontroller. Project done in cojunction with Grepit AB. The parts that will be worked on in this project is first to get the dual core system up and running. A connection between the microcontroller and an external PC will have to be implemented to be able to transfer data between these units. Control of the ADC is to be implemented which is the hardware unit that will mainly be used for the oscilloscope. To be able to use the ADC at the intended speeds an efficient implementation of a DMA configuration will also have to be implemented. 
+The project is meant to evaluate the use of the RUST programming language to implement high speed data accusition on the NXP LPC43XX, 200Mhz M4/M0 multicore microcontroller. Project done in connection with Grepit AB. The parts that will be worked on in this project is first to get the dual core system up and running. A connection between the microcontroller and an external PC will have to be implemented to be able to transfer data between these units. Control of the ADC is to be implemented which is the hardware unit that will mainly be used for the oscilloscope. To be able to use the ADC at the intended speeds an efficient implementation of a DMA configuration will also have to be implemented. The project will be done at 25% during LP two and three.
 
 ## Grading goals
 ### Grade 3:
