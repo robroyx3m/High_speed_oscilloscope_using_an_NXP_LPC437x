@@ -1,5 +1,5 @@
 # High speed oscilloscope using an NXP LPC4370
-Course name : "D7018E - special studies in embedded systems"
+Course name : D7018E - special studies in embedded systems
 
 Carl Bäck, carbck-4@student.ltu.se, 950601-3474
 
